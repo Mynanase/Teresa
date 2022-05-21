@@ -1,0 +1,13 @@
+{
+    "created": "20220520211024413",
+    "creator": "Mynanase",
+    "text": "```\n<<list-search filter:\"[tag[demo]]\" template:\"template/list-search/link-and-tags\">>\n```\n# `filter` : 筛选器\n# `search` : 搜索\n# `template` : \n# `placeholder` : 默认搜索符\n# `stateTiddler` : 搜索框显示符",
+    "title": "搜索框语法",
+    "modified": "20220521114346282",
+    "tags": "pravicy shira Tiddly",
+    "type": "text/vnd.tiddlywiki",
+    "bag": "default",
+    "modifier": "Mynanase",
+    "tmap.id": "7b175c2b-db96-467d-bdd9-1cad7f18f757",
+    "revision": "14"
+}

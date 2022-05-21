@@ -1,0 +1,15 @@
+author: oeyoews
+created: 20220509150849652
+creator: Mynanase
+description: Embed music player into Tiddlywiki5
+list: readme
+modified: 20220521104744688
+modifier: Mynanase
+name: TiddlyWiki5 Music Player
+packaged-by: Gatha on 15th May 2022, 09:06:41
+plugin-type: plugin
+source: https://gitlab.com/oeyoews/twm
+tags: 
+title: $:/plugins/oeyoews/twm
+type: application/json
+version: v0.4.7
