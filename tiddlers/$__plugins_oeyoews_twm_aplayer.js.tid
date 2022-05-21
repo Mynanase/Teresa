@@ -1,0 +1,7 @@
+created: 20220510053157232
+modified: 20220521025435682
+tags: $:/tags/RawMarkup
+title: $:/plugins/oeyoews/twm/aplayer.js
+type: text/vnd.tiddlywiki
+
+<script src="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.js"></script>

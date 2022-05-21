@@ -1,0 +1,27 @@
+caption: BodyFooter
+code-body: yes
+created: 20211001231029099
+creator: Télumire
+modified: 20220521020909691
+modifier: oeyoews
+tagging: after
+tags: $:/tags/RawMarkupWikified/BottomBody twm
+title: $:/plugins/oeyoews/twm/settings
+type: text/vnd.tiddlywiki
+
+<!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
+
+<!-- lrc-type="0" disable show lrc -->
+
+`<meting-js 
+        id="3218667513"
+        server="netease"
+        order="random" 
+        type="playlist" 
+        fixed="false" 
+        preload="auto"
+        loop="all" 
+        theme="cyan" 
+        mutex="true" 
+        list-olded="true">`
+`</meting-js>`

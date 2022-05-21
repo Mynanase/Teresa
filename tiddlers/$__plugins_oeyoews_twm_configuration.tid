@@ -1,0 +1,29 @@
+created: 20220510092944708
+modified: 20220521025345234
+tags: twm
+title: $:/plugins/oeyoews/twm/configuration
+type: text/vnd.tiddlywiki
+
+<table>
+  <tr>
+    <th align="left">id:</th>
+
+    <td>
+      <$edit-text
+          tiddler="$:/plugins/oeyoews/twm/id"
+          field="delay"
+          tag="input"
+          default="3218667513" />
+    </td>
+    <th align="left">platform:</th>   
+
+  <td>
+      <$edit-text
+          tiddler="$:/plugins/oeyoews/twm/platform"
+          field="delay"
+          tag="input"
+          default="netease" />
+    </td>
+
+  </tr>
+</table>
