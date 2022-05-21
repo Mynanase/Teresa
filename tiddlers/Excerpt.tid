@@ -1,0 +1,6 @@
+code-body: yes
+title: Excerpt
+tmap.id: beaf8a32-d283-40c5-babb-ca0d05900a0b
+type: text/vnd.tiddlywiki
+
+{{{ [{!!title}split[/]last[]] }}}

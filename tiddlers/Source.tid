@@ -1,0 +1,11 @@
+caption: {{$:/plugins/kookma/thinkup/images/bookshelf}} Sources
+color: #0d32e7
+created: 20210507092748034
+icon: $:/plugins/kookma/thinkup/images/bookshelf
+modified: 20211030142928583
+tags: $:/tags/Thinkup
+title: Source
+tmap.id: c6ae4374-4540-4c09-917f-98609c4150db
+type: text/vnd.tiddlywiki
+
+{{||$:/plugins/kookma/thinkup/templates/new-from-sidebar}}

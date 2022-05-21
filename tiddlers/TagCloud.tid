@@ -1,0 +1,12 @@
+caption: {{$:/plugins/kookma/thinkup/images/tag-text-outline}} TagCloud
+color: #0ff0e1
+created: 20210512203421401
+icon: $:/plugins/kookma/thinkup/images/tag-text-outline
+modified: 20211114061926706
+tags: $:/tags/Thinkup
+title: TagCloud
+tmap.id: 2b4fd47e-b154-4b1a-9696-b4429dbaa092
+type: text/vnd.tiddlywiki
+
+\import [[$:/plugins/kookma/thinkup/macros/tag-cloud]]
+<<tagcloud_showbycount  n:3>>
